@@ -26,23 +26,35 @@
 
 # File marks:
 '0  1  0  ~/.git/COMMIT_EDITMSG
-|4,48,1,0,1739080080,"~/.git/COMMIT_EDITMSG"
-'1  2  0  ~/a.txt
-|4,49,2,0,1739079785,"~/a.txt"
+|4,48,1,0,1739081253,"~/.git/COMMIT_EDITMSG"
+'1  1  0  ~/.git/COMMIT_EDITMSG
+|4,49,1,0,1739080080,"~/.git/COMMIT_EDITMSG"
+'2  2  0  ~/a.txt
+|4,50,2,0,1739079785,"~/a.txt"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1739081253,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1739080080,"~/.git/COMMIT_EDITMSG"
 -'  2  0  ~/a.txt
 |4,39,2,0,1739079785,"~/a.txt"
 -'  2  0  ~/a.txt
 |4,39,2,0,1739079785,"~/a.txt"
+-'  2  0  ~/a.txt
+|4,39,2,0,1739079785,"~/a.txt"
+-'  1  0  ~/a.txt
+|4,39,1,0,1739079765,"~/a.txt"
 -'  1  0  ~/a.txt
 |4,39,1,0,1739079765,"~/a.txt"
 -'  1  0  ~/a.txt
 |4,39,1,0,1739079765,"~/a.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1739079912	0
+	"	1	0
 
 > ~/a.txt
 	*	1739079780	0
